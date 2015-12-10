@@ -17,7 +17,6 @@ Start services with script:
 
 ```
 $ ./run.sh
-> ~re-start
 ```
 
 
