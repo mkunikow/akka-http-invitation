@@ -54,7 +54,7 @@ Response:
 Execute tests using `test` command:
 
 ```
-$ sbt
+$ activator
 > test
 ```
 
